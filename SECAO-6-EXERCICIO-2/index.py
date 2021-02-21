@@ -15,4 +15,5 @@ contador = 1
 print('WHILE'.center(20, '_'))
 while contador < 101:
 	print(contador)
+	contador = contador + 1
 print('WHILE'.center(20, '_'))

@@ -1,4 +1,10 @@
-# Python - GEEK UNIVERSITY
-## Exercícios
+## Python (Geek University)
+### Exercícios do curso de Programação em python da Geek University, sendo os tópicos abordados:
 
-Aqui você poderá ver todos os exercícios que concluí durante o curso da **Geek University**.
+* Estruturas de repetição;
+* Listas, tuplas, dicionários, sets;
+* Funções anônimas (Lambda);
+* Decoradores;
+* Orientação a objeto;
+* Iteradores;
+* etc...
